@@ -29,3 +29,10 @@
 .error {
   color: #dc2626;
 }
+
+.timestamp {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.875rem;
+  color: #6b7280;
+}
